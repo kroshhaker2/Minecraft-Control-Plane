@@ -3,9 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 [![Rust](https://img.shields.io/badge/Rust-1.92+-orange?logo=rust)](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0/)
 [![Node.js](https://img.shields.io/badge/Node.js-24-green?logo=node.js)](https://nodejs.org/en/blog/release/v24.12.0)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/kroshhaker2/mcp-agent/rust.yml?branch=main)](https://github.com/kroshhaker2/mcp-agent.git)
-[![Master Status](https://img.shields.io/github/actions/workflow/status/kroshhaker2/mcp-master/nodejs.yml?branch=main)](https://github.com/kroshhaker2/mcp-master.git)
-[![Web Status](https://img.shields.io/github/actions/workflow/status/kroshhaker2/mcp-web/nodejs.yml?branch=main)](https://github.com/kroshhaker2/mcp-web.git)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/kroshhaker2/mcsp-agent/rust.yml?branch=main)](https://github.com/kroshhaker2/mcsp-agent.git)
+[![Master Status](https://img.shields.io/github/actions/workflow/status/kroshhaker2/mcsp-master/nodejs.yml?branch=main)](https://github.com/kroshhaker2/mcsp-master.git)
+[![Web Status](https://img.shields.io/github/actions/workflow/status/kroshhaker2/mcsp-web/nodejs.yml?branch=main)](https://github.com/kroshhaker2/mcsp-web.git)
 
 **Distributed Master–Agents система для управления серверами Minecraft**
 
@@ -72,7 +72,7 @@ Agent (Rust)
 1. Клонировать репозиторий агента:
 
 ```bash
-git clone https://github.com/kroshhaker2/mcp-agent.git
+git clone https://github.com/kroshhaker2/mcsp-agent.git
 cd mc-agent
 ```
 
@@ -89,7 +89,7 @@ cargo build --release
 1. Клонировать репозиторий Master:
 
 ```bash
-git clone https://github.com/kroshhaker2/mcp-master.git
+git clone https://github.com/kroshhaker2/mcsp-master.git
 cd mc-master
 ```
 
@@ -111,7 +111,7 @@ npm run dev
 1. Клонировать репозиторий Web
 
 ```bash
-git clone https://github.com/kroshhaker2/mcp-web.git
+git clone https://github.com/kroshhaker2/mcsp-web.git
 cd mc-web
 ```
 
